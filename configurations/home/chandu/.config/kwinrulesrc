@@ -1,0 +1,15 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum
+
+[1]
+Description=Android Emulator
+above=true
+aboverule=2
+skipswitcher=true
+skipswitcherrule=2
+title=Android Emulator - Pixel_3a:5554
+titlematch=1
+wmclassmatch=1
+
+[General]
+count=1

@@ -1,0 +1,38 @@
+[General]
+FreeFloating=true
+RetainPriorSearch=false
+
+[PlasmaRunnerManager]
+migrated=true
+
+[Plugins]
+CharacterRunnerEnabled=true
+DictionaryEnabled=true
+Kill RunnerEnabled=true
+PowerDevilEnabled=true
+Spell CheckerEnabled=true
+appstreamEnabled=false
+baloosearchEnabled=false
+bookmarksEnabled=true
+calculatorEnabled=true
+desktopsessionsEnabled=true
+katesessionsEnabled=true
+konsoleprofilesEnabled=true
+kwinEnabled=true
+locationsEnabled=true
+org.kde.activities2Enabled=true
+org.kde.datetimeEnabled=true
+org.kde.windowedwidgetsEnabled=false
+placesEnabled=true
+plasma-desktopEnabled=true
+recentdocumentsEnabled=false
+servicesEnabled=true
+shellEnabled=false
+unitconverterEnabled=true
+webshortcutsEnabled=true
+windowsEnabled=false
+
+[Runners][Kill Runner]
+sorting=1
+triggerWord=kill
+useTriggerWord=true

@@ -1,0 +1,31 @@
+DP1 Height 2560x1080=558
+DP1 Width 2560x1080=1026
+DP1 XPosition 2560x1080=1484
+DP1 YPosition 2560x1080=248
+State=AAAA/wAAAAD9AAAAAAAABAIAAAHiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAHABzAGUAcwBzAGkAbwBuAFQAbwBvAGwAYgBhAHIBAAABxf////8AAAAAAAAAAA==
+StatusBar=Disabled
+
+[Desktop Entry]
+DefaultProfile=Customized.profile
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Desktop/test.txt,file:$HOME/Desktop/test.txt
+Recent URLs[$e]=file:$HOME/Desktop/
+detailViewIconSize=16
+
+[KonsoleWindow]
+AllowMenuAccelerators=true
+SaveGeometryOnExit=false
+ShowMenuBarByDefault=false
+ShowWindowTitleOnTitleBar=true
+
+[MainWindow]
+DP1 XPosition 2560x1080=935
+DP1 YPosition 2560x1080=388
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAqEAAAFhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHABzAGUAcwBzAGkAbwBuAFQAbwBvAGwAYgBhAHIAAAABxf////8AAAAAAAAAAA==
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+
+[SaveHistory Settings]
+Recent URLs[$e]=file:$HOME/Desktop

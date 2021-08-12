@@ -1,0 +1,74 @@
+DP1 Height 2560x1080=551
+DP1 Width 2560x1080=1087
+DP1 XPosition 2560x1080=1210
+DP1 YPosition 2560x1080=395
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAADJAAAB+fwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAuAAAAXQAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAAB+QAAAF0BAAADAAAAAQAAAMMAAAH5/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAAC4AAAH5AAABDwEAAAMAAAADAAAEPwAAAL78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAEPwAAAAoBAAADAAACsQAAAfkAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+
+[CompactMode]
+FontWeight=50
+
+[ContextMenu]
+ShowDuplicateHere=false
+ShowOpenInNewTab=false
+ShowSortBy=false
+ShowViewMode=false
+
+[Desktop Entry]
+DefaultProfile=Customized.profile
+
+[DetailsMode]
+FontWeight=50
+IconSize=22
+PreviewSize=22
+
+[General]
+OpenExternallyCalledFolderInNewTab=false
+RememberOpenedTabs=false
+ShowFullPath=true
+ShowSelectionToggle=false
+ShowZoomSlider=false
+UseTabForSwitchingSplitView=true
+Version=200
+ViewPropsTimestamp=2021,6,13,5,21,41.59
+
+[IconsMode]
+FontWeight=50
+IconSize=64
+MaximumTextLines=2
+
+[KPropertiesDialog]
+DP1 Height 2560x1080=544
+DP1 Width 2560x1080=451
+
+[MainWindow]
+DP-1 Height 2560x1080=551
+DP-1 Width 2560x1080=979
+DP1 Height 2560x1080=551
+DP1 Width 2560x1080=1087
+DP1 XPosition 2560x1080=803
+DP1 YPosition 2560x1080=354
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAADJAAAB+fwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAuAAAAXQAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAAB+QAAAF0BAAADAAAAAQAAAMMAAAH5/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAAC4AAAH5AAABDwEAAAMAAAADAAAEPwAAAL78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAEPwAAAAoBAAADAAACsQAAAfkAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[Open-with settings]
+CompletionMode=1
+History=vim
+
+[PlacesPanel]
+IconSize=32
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail
+
+[Search]
+Location=Everywhere
+
+[SettingsDialog]
+DP1 Height 2560x1080=440
+DP1 Width 2560x1080=589
+
+[ViewPropertiesDialog]
+DP1 Height 2560x1080=306
+DP1 Width 2560x1080=375

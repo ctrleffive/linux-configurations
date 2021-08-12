@@ -1,0 +1,67 @@
+[KFileDialog Settings]
+Recent Files[$e]=alabama-hills-5616x3744-5k-4k-wallpaper-california-us-mountains-sky-4887.jpg,file:$HOME/Pictures/Wallpapers/ios-11-3840x2160-4k-5k-beach-ocean-13655.jpg,file:$HOME/Pictures/Wallpapers/external-content.duckduckgo.coms.jpg,file:$HOME/Pictures/Wallpapers/external-content.duckduckgo.com3.jpg,file:$HOME/Pictures/Wallpapers/external-content.duckduckgo.com.jpg,file:$HOME/Pictures/Wallpapers/alabama-hills-5616x3744-5k-4k-wallpaper-california-us-mountains-sky-4887.jpg
+Recent URLs[$e]=file:$HOME/Pictures/Wallpapers/
+detailViewIconSize=16
+
+[Notification Messages]
+klipperClearHistoryAskAgain=false
+
+[PlasmaViews][Panel 2]
+alignment=132
+panelOpacity=0
+panelVisibility=0
+
+[PlasmaViews][Panel 2][Defaults]
+maxLength=2560
+minLength=2560
+thickness=32
+
+[PlasmaViews][Panel 2][Horizontal2560]
+maxLength=2560
+minLength=2560
+thickness=32
+
+[PlasmaViews][Panel 28][Defaults]
+maxLength=1629
+minLength=530
+thickness=27
+
+[PlasmaViews][Panel 28][Horizontal2560]
+maxLength=1629
+minLength=530
+thickness=27
+
+[PlasmaViews][Panel 38]
+alignment=132
+panelVisibility=0
+
+[PlasmaViews][Panel 38][Defaults]
+maxLength=2560
+minLength=2560
+offset=0
+thickness=30
+
+[PlasmaViews][Panel 38][Horizontal2560]
+maxLength=2560
+minLength=2560
+offset=0
+thickness=30
+
+[PlasmaViews][Panel 64]
+alignment=132
+panelOpacity=2
+panelVisibility=1
+
+[PlasmaViews][Panel 64][Defaults]
+minLength=470
+thickness=39
+
+[PlasmaViews][Panel 64][Horizontal2560]
+minLength=470
+thickness=39
+
+[ScreenConnectors]
+0=DP1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js

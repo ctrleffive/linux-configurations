@@ -1,0 +1,9 @@
+[user]
+	name = Chandu J S
+	email = chandujs@live.com
+[commit]
+	gpgsign = false
+[gpg]
+	program = false
+[url "https://"]
+	insteadOf = git://
