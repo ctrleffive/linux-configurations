@@ -9,6 +9,9 @@
 trustedPackages="./install_trusted.conf"
 thirdPartyPackages="./install_third_party.conf"
 
+# systemd services
+systemdServices="./services.conf"
+
 sudo pacman --sync --refresh
 
 echo ""
@@ -41,6 +44,14 @@ echo ""
 
 # installing third party packages.
 pikaur --sync --needed $thirdPartyPackagesTogether
+
+echo "";
+echo "⚙ Enabling serivces..."
+
+# looping through the list & avoiding the empty spaces
+sed '/^[ \t]*$/d' $systemdServices | while read service; do
+  sudo systemctl enable $service
+done
 
 echo ""
 echo "🎉 Installation complete! You can restart your PC."

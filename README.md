@@ -11,5 +11,6 @@
 - Make the `install.sh` file executable with `chmod +x ./install.sh` first.
 - Bulk install packages by executing `install.sh` file.
 - Packages needs to be installed should be listed inside `install_third_party.conf` & `install_trusted.conf` files.
+- Services needs to be enabled should be listed inside `services.conf` file.
 - Its better to restart the PC after script finished running.
 - 3rd party packages are installed through `pikaur` AUR helper.
