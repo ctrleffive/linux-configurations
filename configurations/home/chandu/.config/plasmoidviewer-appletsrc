@@ -1,0 +1,17 @@
+[Containments][1]
+ItemGeometries-640x480=Applet-2:0,0,96,96,0;
+ItemGeometriesHorizontal=Applet-2:0,0,96,96,0;
+activityId=
+formfactor=0
+immutability=1
+lastScreen=0
+location=0
+plugin=org.kde.desktopcontainment
+wallpaperplugin=org.kde.image
+
+[Containments][1][Applets][2]
+immutability=1
+plugin=org.kde.cloudflareWarpWidget
+
+[Containments][1][Wallpaper][org.kde.image][General]
+Image=file:///usr/share/wallpapers/Next/contents/images/1024x768.png

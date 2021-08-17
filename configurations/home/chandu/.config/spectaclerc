@@ -1,16 +1,15 @@
 [$Version]
-update_info=spectacle_newConfig.upd:spectacle-new-config
+update_info=spectacle_newConfig.upd:spectacle-new-config,spectacle_clipboard.upd:clipboard-settings-change
 
 [General]
-copyImageToClipboard=true
-copySaveLocation=false
+clipboardGroup=PostScreenshotCopyImage
 rememberLastRectangularRegion=false
 useReleaseToCapture=true
 
 [GuiConfig]
-cropRegion=-1,-1,2561,1081
+captureMode=5
 quitAfterSaveCopyExport=true
-window-position=713,123
+window-position=634,293
 
 [Save]
 compressionQuality=100

@@ -1,0 +1,21 @@
+[KFileDialog Settings]
+Recent Files[$e]=Custom.jpg,file:$HOME/.local/share/wallpapers/Materia-Dark/contents/screenshot.png,file:///usr/share/sounds/freedesktop/stereo/network-connectivity-lost.oga,file:///usr/share/sounds/freedesktop/stereo/network-connectivity-established.oga,file:///usr/share/sounds/freedesktop/stereo/service-login.oga
+Recent URLs[$e]=file:$HOME/.local/share/wallpapers/,file:///usr/share/wallpapers/,file:$HOME/,file:///usr/share/sounds/freedesktop/stereo/,file:///usr/share/sounds/freedesktop/,file:$HOME/.local/share/wallpapers/Materia-Dark/contents/
+detailViewIconSize=16
+iconViewIconSize=43
+
+[MainWindow]
+DP1 Height 2560x1080=748
+DP1 Width 2560x1080=1416
+DP1 XPosition 2560x1080=71
+DP1 YPosition 2560x1080=128
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABYgAAALsAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Notification Messages]
+FormatSettingsChanged=false
+
+[Open-with settings]
+CompletionMode=1
+History=sys

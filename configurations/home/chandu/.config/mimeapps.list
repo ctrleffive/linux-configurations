@@ -1,0 +1,20 @@
+[Added Associations]
+application/json=vim.desktop;firefox-developer-edition.desktop;visual-studio-code.desktop;okularApplication_txt.desktop;
+application/xml=vim.desktop;visual-studio-code.desktop;google-chrome.desktop;firefox-developer-edition.desktop;okularApplication_txt.desktop;
+inode/directory=org.kde.dolphin.desktop;
+text/plain=vim.desktop;visual-studio-code.desktop;okularApplication_txt.desktop;
+x-scheme-handler/http=firefox-developer-edition.desktop;
+x-scheme-handler/https=firefox-developer-edition.desktop;
+
+[Default Applications]
+application/json=vim.desktop;
+application/xml=vim.desktop;
+inode/directory=org.kde.dolphin.desktop;
+text/plain=vim.desktop;
+x-scheme-handler/eclipse+command=_usr_lib_dbeaver_.desktop
+x-scheme-handler/http=firefox-developer-edition.desktop;
+x-scheme-handler/https=firefox-developer-edition.desktop;
+x-scheme-handler/insomnia=insomnia.desktop
+x-scheme-handler/kite=kite-copilot.desktop
+x-scheme-handler/notion=notion-app.desktop
+x-scheme-handler/slack=slack.desktop

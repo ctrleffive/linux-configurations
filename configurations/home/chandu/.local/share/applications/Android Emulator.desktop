@@ -1,0 +1,21 @@
+[Desktop Entry]
+Comment[en_IN]=Launch Android Emulator
+Comment=Launch Android Emulator
+Exec=/opt/android-sdk/emulator/emulator -avd Pixel_3a
+GenericName[en_IN]=
+GenericName=
+Icon=smartphone
+MimeType=
+Name[en_IN]=Android Emulator
+Name=Android Emulator
+Path=
+StartupNotify=true
+StartupWMClass=zoom
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-Protocols=zoommtg;zoomus;tel;callto;zoomphonecall;
+X-KDE-SubstituteUID=false
+X-KDE-Username=

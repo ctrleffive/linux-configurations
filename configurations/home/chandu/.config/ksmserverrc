@@ -1,0 +1,27 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[General]
+confirmLogout=false
+loginMode=emptySession
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+count=0
+
+[SubSession: 0279a889-803f-41c6-8a18-fec3eed96b3f]
+clientId1=1061726368000162870102000000007450025
+count=1
+discardCommand1[$e]=rm,$HOME/.config/session/dolphin_1061726368000162870102000000007450025_1628701032_655980
+program1=/usr/bin/dolphin
+restartCommand1=/usr/bin/dolphin,-session,1061726368000162870102000000007450025_1628701032_655980
+restartStyleHint1=0
+userId1=chandu
+
+[SubSession: e2d6c43e-efcf-4879-bb48-f4560168c4f6]
+count=0
+
+[SubSession: e802612f-a0dd-4817-9753-f9ee0cdf2bd8]
+count=0

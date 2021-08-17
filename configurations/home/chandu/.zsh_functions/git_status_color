@@ -1,0 +1,24 @@
+# Return a color based on the current git status.
+git_status_color () {
+  local gitStatus="$(git_status)"
+  local statusText=''
+  case $gitStatus in
+    clean*)
+      statusText="green"
+      ;;
+    modified*)
+      statusText="magenta"
+      ;;
+    staged*)
+      statusText="yellow"
+      ;;
+    ahead*)
+      statusText="cyan"
+      ;;
+    *)
+      statusText="white"
+      ;;
+  esac
+  echo -en $statusText
+}
+

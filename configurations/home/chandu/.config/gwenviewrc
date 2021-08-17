@@ -1,0 +1,38 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[Crop]
+CropAdvancedSettingsEnabled=true
+CropRatioHeight=1
+CropRatioIndex=1
+CropRatioWidth=1
+
+[General]
+LastUsedVersion=210800
+SideBarPage=operations
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Desktop/banner-1.png,file:$HOME/Desktop/banner-6.png,file:$HOME/Desktop/banner-5.png,file:$HOME/Desktop/banner-4.png,file:$HOME/Desktop/banner-3.png,file:$HOME/Desktop/banner-2.png
+Recent URLs[$e]=file:$HOME/Desktop/
+detailViewIconSize=16
+
+[MainWindow]
+DP1 Window-Maximized 2560x1080=true
+DP1 XPosition 2560x1080=419
+DP1 YPosition 2560x1080=176
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAACgAAAAPsAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=trash:/0-screenshot
+File2[$e]=$HOME/Pictures/Wallpapers/ios-11-3840x2160-4k-5k-beach-ocean-13655.jpg
+File3[$e]=/run/media/chandu/disk/DCIM/10410817/IMG00001.ARW
+File4[$e]=/run/media/chandu/disk/DCIM/10410817/IMG00001.JPG
+Name1[$e]=0-screenshot
+Name2[$e]=ios-11-3840x2160-4k-5k-beach-ocean-13655.jpg
+Name3[$e]=IMG00001.ARW
+Name4[$e]=IMG00001.JPG
+
+[SideBar]
+SideBarSplitterSizes=242,2317

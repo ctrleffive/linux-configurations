@@ -1,0 +1,5 @@
+# Get the current directory, truncate it, and make it blue
+fancy_dir () {
+  echo -en "%F{cyan}%-55<…<%~%<<%f"
+  return
+} 

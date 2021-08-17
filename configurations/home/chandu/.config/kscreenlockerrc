@@ -1,0 +1,14 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Daemon]
+Autolock=false
+
+[Greeter]
+WallpaperPlugin=org.kde.color
+
+[Greeter][Wallpaper][org.kde.color][General]
+Color=0,0,0
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/usr/share/wallpapers/Custom.jpg

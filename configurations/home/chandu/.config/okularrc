@@ -1,0 +1,25 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+DP1 Height 2560x1080=818
+DP1 Width 2560x1080=697
+DP1 XPosition 2560x1080=1780
+DP1 YPosition 2560x1080=135
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAArkAAAMEAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=/run/media/chandu/Storage/Softwares/Backup/.gitconfig
+File2[$e]=$HOME/Downloads/amtitsolutions.com/amt_bp.pdf
+File3[$e]=$HOME/Downloads/2021-01-16-21-15-31-781_1610811931781_XXXPS6946X_ITRV.pdf
+File4[$e]=$HOME/Documents/Project/Ben Focus/content-v1.pdf
+File5[$e]=/run/media/chandu/Storage/Downloads/2021-01-16-21-15-31-781_1610811931781_XXXPS6946X_ITRV.pdf
+File6[$e]=$HOME/Downloads/GitHub About Page 07ced7783344446085852aa4850ecfe1.md
+Name1[$e]=.gitconfig
+Name2[$e]=amt_bp.pdf
+Name3[$e]=2021-01-16-21-15-31-781_1610811931781_XXXPS6946X_ITRV.pdf
+Name4[$e]=content-v1.pdf
+Name5[$e]=2021-01-16-21-15-31-781_1610811931781_XXXPS6946X_ITRV.pdf
+Name6[$e]=GitHub About Page 07ced7783344446085852aa4850ecfe1.md

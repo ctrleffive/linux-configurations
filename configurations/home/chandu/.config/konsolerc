@@ -6,7 +6,7 @@ State=AAAA/wAAAAD9AAAAAAAABAIAAAHiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG
 StatusBar=Disabled
 
 [Desktop Entry]
-DefaultProfile=Customized.profile
+DefaultProfile=Chandu.profile
 
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME/Desktop/test.txt,file:$HOME/Desktop/test.txt
@@ -15,16 +15,18 @@ detailViewIconSize=16
 
 [KonsoleWindow]
 AllowMenuAccelerators=true
-SaveGeometryOnExit=false
 ShowMenuBarByDefault=false
 ShowWindowTitleOnTitleBar=true
 
 [MainWindow]
-DP1 XPosition 2560x1080=1731
-DP1 YPosition 2560x1080=644
+DP1 Height 2560x1080=352
+DP1 Width 2560x1080=689
+DP1 XPosition 2560x1080=1740
+DP1 YPosition 2560x1080=289
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAAAqEAAAFhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHABzAGUAcwBzAGkAbwBuAFQAbwBvAGwAYgBhAHIAAAABxf////8AAAAAAAAAAA==
 StatusBar=Disabled
+ToolBars=Disabled
 ToolBarsMovable=Disabled
 
 [SaveHistory Settings]

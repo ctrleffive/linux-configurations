@@ -1,7 +1,8 @@
 [KFileDialog Settings]
-Recent Files[$e]=alabama-hills-5616x3744-5k-4k-wallpaper-california-us-mountains-sky-4887.jpg,file:$HOME/Pictures/Wallpapers/ios-11-3840x2160-4k-5k-beach-ocean-13655.jpg,file:$HOME/Pictures/Wallpapers/external-content.duckduckgo.coms.jpg,file:$HOME/Pictures/Wallpapers/external-content.duckduckgo.com3.jpg,file:$HOME/Pictures/Wallpapers/external-content.duckduckgo.com.jpg,file:$HOME/Pictures/Wallpapers/alabama-hills-5616x3744-5k-4k-wallpaper-california-us-mountains-sky-4887.jpg
-Recent URLs[$e]=file:$HOME/Pictures/Wallpapers/
+Recent Files[$e]=alabama-hills-5616x3744-5k-4k-wallpaper-california-us-mountains-sky-4887.jpg,file:$HOME/Pictures/Wallpapers/Justice League.png,file:$HOME/Pictures/Wallpapers/ios-11-3840x2160-4k-5k-beach-ocean-13655.jpg,file:$HOME/Pictures/Wallpapers/external-content.duckduckgo.coms.jpg,file:$HOME/Pictures/Wallpapers/external-content.duckduckgo.com3.jpg,file:$HOME/Pictures/Wallpapers/external-content.duckduckgo.com.jpg,file:$HOME/Pictures/Wallpapers/alabama-hills-5616x3744-5k-4k-wallpaper-california-us-mountains-sky-4887.jpg
+Recent URLs[$e]=file:$HOME/Pictures/Wallpapers/,file:$HOME/Pictures/
 detailViewIconSize=16
+iconViewIconSize=43
 
 [Notification Messages]
 klipperClearHistoryAskAgain=false

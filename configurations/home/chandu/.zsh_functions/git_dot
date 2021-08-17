@@ -1,0 +1,18 @@
+# Print a dot indicating the current git status.
+git_dot () {
+  local gitCheck="$(git_check)"
+  if [[ $gitCheck ]]; then
+    local gitStatus="$(git_status)"
+    local gitStatusDot='●'
+    if [[ $gitStatus == 'staged' ]]; then
+      local gitStatusDot='◍'
+    elif [[ $gitStatus == 'modified' ]]; then
+      local gitStatusDot='○'
+    fi
+    if [[ $gitCheck && ! $gitCheck == 'master' && $COLUMNS -lt 80 ]]; then
+      echo -en "%F{#616161}⌥%f "
+    fi
+    echo -en "%F{"$(git_status_color)"}$gitStatusDot%f "
+  fi
+}
+ 

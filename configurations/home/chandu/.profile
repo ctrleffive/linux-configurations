@@ -12,3 +12,6 @@ export REACT_EDITOR=code
 export CHROME_EXECUTABLE=/usr/bin/google-chrome-stable
 
 export PATH=/opt/flutter/bin:$PATH
+
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8

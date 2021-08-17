@@ -1,0 +1,8 @@
+# Return the branch name if we're in a git repo, or nothing otherwise.
+git_check () {
+  local gitBranch=$(git branch 2> /dev/null | sed -e "/^[^*]/d" -e "s/* \(.*\)/\1/")
+  if [[ $gitBranch ]]; then
+    echo -en $gitBranch
+    return
+  fi
+} 

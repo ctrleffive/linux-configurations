@@ -100,3 +100,13 @@ source $HOME/.profile
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+#
+
+# Custom functions
+
+# add ~/.zsh_functions to fpath, and then lazy autoload
+# every file in there as a function
+fpath=(~/.zsh_functions $fpath);
+autoload -U $fpath[1]/*(.:t)
+
+export PS1='$(fancy_dir) $(git_dot) $(chevrons) '

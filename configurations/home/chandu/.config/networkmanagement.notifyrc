@@ -1,0 +1,13 @@
+[Event/ConnectionActivated]
+Action=
+Execute=
+Logfile=
+Sound=
+TTS=
+
+[Event/ConnectionDeactivated]
+Action=
+Execute=
+Logfile=
+Sound=
+TTS=
