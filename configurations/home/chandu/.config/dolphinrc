@@ -15,7 +15,7 @@ ShowSortBy=false
 ShowViewMode=false
 
 [Desktop Entry]
-DefaultProfile=Customized.profile
+DefaultProfile=
 
 [DetailsMode]
 FontWeight=50
@@ -38,35 +38,53 @@ IconSize=64
 MaximumTextLines=2
 
 [KFileDialog Settings]
+Recent Files[$e]=Windows XP.vmx,file:$HOME/Softwares/Games/Assassins Creed Revelations/AssassinsCreedRevelations.exe,file:$HOME/Softwares/Games/Assassins Creed Revelations/icon.ico,file:$HOME/Softwares/Games/Assassins Creed Brotherhood/AssassinsCreedBrotherhood.exe,file:$HOME/Softwares/Games/Assassins Creed Brotherhood/icon.ico,file:$HOME/Softwares/Games/Assassins Creed II/icon.ico,file:$HOME/Softwares/Games/Assassins Creed II/AssassinsCreedII-MCE.png,file:$HOME/Softwares/Games/Assassins Creed II/AssassinsCreedIIGame.exe,file:$HOME/Softwares/Virtual Machines/Windows 7/Windows 7.vmx,file:$HOME/Softwares/Virtual Machines/Windows XP/Windows XP.vmx
+Recent URLs[$e]=file:$HOME/Softwares/Virtual Machines/Windows XP/,file:$HOME/Softwares/Virtual Machines/Windows 7/,file:$HOME/Softwares/Games/Assassins Creed II/,file:$HOME/,file:$HOME/Softwares/Games/Assassins Creed II/Videos/,file:$HOME/Softwares/Games/Assassins Creed Revelations/,file:$HOME/Softwares/Games/Assassins Creed Brotherhood/,file:$HOME/Softwares/Games/
 iconViewIconSize=43
 
 [KPropertiesDialog]
-DP1 Height 2560x1080=606
-DP1 Width 2560x1080=463
+DP1 Height 2560x1080=458
+DP1 Height 800x600=606
+DP1 Width 2560x1080=382
+DP1 Width 800x600=463
 
 [MainWindow]
 DP-1 Height 2560x1080=551
 DP-1 Width 2560x1080=979
-DP1 Height 2560x1080=537
-DP1 Width 2560x1080=1048
-DP1 XPosition 2560x1080=1280
-DP1 YPosition 2560x1080=307
+DP1 Height 1024x768=548
+DP1 Height 1920x1080=548
+DP1 Height 2560x1080=570
+DP1 Height 640x480=548
+DP1 Height 800x600=570
+DP1 Width 1024x768=1024
+DP1 Width 1920x1080=1171
+DP1 Width 2560x1080=1194
+DP1 Width 640x480=640
+DP1 Width 800x600=800
+DP1 Window-Maximized 800x600=true
+DP1 XPosition 1024x768=0
+DP1 XPosition 1920x1080=547
+DP1 XPosition 2560x1080=825
+DP1 XPosition 640x480=0
+DP1 XPosition 800x600=0
+DP1 YPosition 1024x768=220
+DP1 YPosition 1920x1080=327
+DP1 YPosition 2560x1080=333
+DP1 YPosition 640x480=-68
+DP1 YPosition 800x600=30
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAwAAAAAAAADJAAAB6/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAuAAAAXQAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAAB6wAAAF0BAAADAAAAAQAAAMUAAAHr/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAAC4AAAHrAAABDwEAAAMAAAADAAAEPwAAAL78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAEPwAAAAoBAAADAAACiAAAAesAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+State=AAAA/wAAAAD9AAAAAwAAAAAAAADJAAACDPwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAuAAAAXQAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAACDAAAAF0BAAADAAAAAQAAAOcAAAIM/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAAC4AAAIMAAABDwEAAAMAAAADAAAEVgAAAL78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAEVgAAAAoBAAADAAAC+AAAAgwAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled
 
 [Open-with settings]
 CompletionMode=1
-History=vim
+History=vim,play
 
 [PlacesPanel]
 IconSize=32
 
 [PreviewSettings]
 Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail
-
-[Search]
-Location=Everywhere
 
 [SettingsDialog]
 DP1 Height 2560x1080=440

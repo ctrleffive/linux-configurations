@@ -8,6 +8,7 @@ useReleaseToCapture=true
 
 [GuiConfig]
 captureMode=5
+cropRegion=402,321,1280,152
 quitAfterSaveCopyExport=true
 window-position=634,293
 

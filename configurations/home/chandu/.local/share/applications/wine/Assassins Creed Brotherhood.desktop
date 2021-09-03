@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[en_IN]=
+Comment=
+Exec=wine "/home/chandu/Softwares/Games/Assassins Creed Brotherhood/AssassinsCreedBrotherhood.exe"
+GenericName[en_IN]=
+GenericName=
+Icon=/home/chandu/Softwares/Games/Assassins Creed Brotherhood/icon.ico
+MimeType=
+Name[en_IN]=Assassins Creed Brotherhood
+Name=Assassins Creed Brotherhood
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

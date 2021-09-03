@@ -25,6 +25,9 @@ Transform=normal
 [Effect-Blur]
 NoiseStrength=0
 
+[Effect-DesktopGrid]
+BorderActivate=1
+
 [Effect-Slide]
 SlideBackground=false
 
@@ -34,14 +37,8 @@ FadeToBlack=true
 [Effect-kwin4_effect_translucency]
 MoveResize=100
 
-[ElectricBorders]
-TopLeft=None
-
 [KDE]
 AnimationDurationFactor=0.25
-
-[ModifierOnlyShortcuts]
-Meta=org.kde.krunner,/App,,display
 
 [MouseBindings]
 CommandAllWheel=Maximize/Restore
@@ -55,8 +52,6 @@ NightTemperature=4300
 [Plugins]
 blurEnabled=true
 contrastEnabled=false
-coverswitchEnabled=true
-flipswitchEnabled=true
 forceblurEnabled=false
 glideEnabled=true
 highlightwindowEnabled=true
@@ -76,6 +71,10 @@ blurExceptMatching=true
 blurMatching=false
 patterns=dolphin
 
+[SubSession: 5cd121f4-d4af-4c73-859b-870d1bdb80e1]
+active=-1
+count=0
+
 [SubSession: dee398c5-a12c-4757-8298-c177975620fe]
 active=-1
 count=0
@@ -86,6 +85,7 @@ count=0
 
 [TabBox]
 BorderActivate=9
+LayoutName=thumbnail_grid
 MinimizedMode=1
 TouchBorderActivate=9
 

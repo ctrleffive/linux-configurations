@@ -1,0 +1,2 @@
+# save all files under this folder
+-o ~/Music/Downloads/%(title)s.%(ext)s

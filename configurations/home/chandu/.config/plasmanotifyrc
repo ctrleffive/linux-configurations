@@ -1,2 +1,16 @@
+[Applications][org.kde.spectacle]
+ShowBadges=false
+ShowInHistory=false
+
+[Applications][pomotroid]
+Seen=true
+ShowBadges=false
+ShowInHistory=false
+
 [Applications][slack]
 Seen=true
+ShowBadges=false
+ShowInHistory=false
+
+[Applications][vlc]
+ShowBadges=false

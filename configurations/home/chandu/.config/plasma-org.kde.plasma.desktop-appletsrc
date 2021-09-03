@@ -88,9 +88,11 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][38][Applets][68][Configuration]
-PreloadWeight=44
+PreloadWeight=1
 
 [Containments][38][Applets][68][Configuration][Appearance]
+dateDisplayFormat=BesideTime
+dateFormat=isoDate
 fontFamily=JetBrains Mono
 showDate=false
 
@@ -118,7 +120,7 @@ PreloadWeight=0
 [Containments][38][Applets][70][Configuration][Appearance]
 iconAppNameSpacing=10
 leftSpacing=10
-noWindowText=Plasma
+noWindowText=%activity%
 
 [Containments][38][Applets][70][Configuration][ConfigDialog]
 DialogHeight=558
@@ -166,7 +168,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][43][Applets][45][Configuration]
-PreloadWeight=100
+PreloadWeight=56
 
 [Containments][43][Applets][45][Configuration][ConfigDialog]
 DialogHeight=558
@@ -174,13 +176,14 @@ DialogWidth=720
 
 [Containments][43][Applets][45][Configuration][General]
 volumeFeedback=false
+volumeStep=2
 
 [Containments][43][Applets][46]
 immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][43][Applets][46][Configuration]
-PreloadWeight=57
+PreloadWeight=0
 
 [Containments][43][Applets][47]
 immutability=1
@@ -194,7 +197,7 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][43][Applets][48][Configuration]
-PreloadWeight=30
+PreloadWeight=0
 
 [Containments][43][Applets][48][Configuration][General]
 allDevices=true
@@ -223,7 +226,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][43][Applets][53][Configuration]
-PreloadWeight=39
+PreloadWeight=0
 
 [Containments][43][Applets][79]
 immutability=1
@@ -246,7 +249,7 @@ immutability=1
 plugin=org.kde.plasma.weather
 
 [Containments][43][Applets][83][Configuration]
-PreloadWeight=3
+PreloadWeight=0
 pressureUnit=5029
 showHumidityInTooltip=false
 showPressureInTooltip=false
@@ -264,6 +267,13 @@ weatherServiceProviders=wettercom
 DialogHeight=558
 DialogWidth=720
 
+[Containments][43][Applets][84]
+immutability=1
+plugin=org.kde.plasma.diskquota
+
+[Containments][43][Applets][84][Configuration]
+PreloadWeight=0
+
 [Containments][43][ConfigDialog]
 DialogHeight=558
 DialogWidth=720
@@ -272,14 +282,14 @@ DialogWidth=720
 PreloadWeight=0
 
 [Containments][43][General]
-extraItems=org.kde.plasma.clipboard,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.battery,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.devicenotifier,org.kde.plasma.nightcolorcontrol,org.kde.plasma.keyboardlayout,org.kde.plasma.weather
+extraItems=org.kde.plasma.clipboard,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.battery,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.devicenotifier,org.kde.plasma.nightcolorcontrol,org.kde.plasma.keyboardlayout,org.kde.plasma.weather,org.kde.plasma.diskquota
+hiddenItems=zoom
 knownItems=org.kde.plasma.clipboard,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.battery,org.kde.plasma.mediacontroller,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.devicenotifier,org.kde.plasma.nightcolorcontrol,org.kde.plasma.keyboardindicator
-showAllItems=true
 
-[Containments][73]
+[Containments][86]
 ItemGeometries-2560x1080=
 ItemGeometriesHorizontal=
-activityId=5cd121f4-d4af-4c73-859b-870d1bdb80e1
+activityId=c962ae70-2525-44f7-8789-99347fb7ba2c
 formfactor=0
 immutability=1
 lastScreen=0
@@ -287,35 +297,29 @@ location=0
 plugin=org.kde.desktopcontainment
 wallpaperplugin=org.kde.potd
 
-[Containments][73][ConfigDialog]
-DialogHeight=540
+[Containments][86][ConfigDialog]
+DialogHeight=558
 DialogWidth=720
 
-[Containments][73][Configuration]
+[Containments][86][Configuration]
 PreloadWeight=0
 
-[Containments][73][General]
-ToolBoxButtonState=topcenter
-ToolBoxButtonX=897
-ToolBoxButtonY=30
-
-[Containments][73][Wallpaper][org.kde.color][General]
-Color=85,0,255
-
-[Containments][73][Wallpaper][org.kde.image][General]
-Blur=true
-Image=file:///run/media/chandu/Storage/Pictures/Wallpapers/Justice League.png
+[Containments][86][Wallpaper][org.kde.image][General]
+Image=file:///usr/share/wallpapers/Next/contents/images/2560x1440.png
 SlidePaths=/home/chandu/.local/share/wallpapers,/usr/share/wallpapers
 
-[Containments][73][Wallpaper][org.kde.potd][General]
-Category=1339090
-Color=85,0,255
+[Containments][86][Wallpaper][org.kde.potd][General]
+Category=1339089
 FillMode=2
 Provider=unsplash
 
 [Containments38Appletsts][88][Configuration][General]
 url=https://www.youtube.com/
 useMinViewWidth=false
+
+[Containments73Appletsts][86][Configuration][General]
+clock_fontfamily=Cantarell Light
+show_time_in_compact_mode=true
 
 [ScreenMapping]
 itemsOnDisabledScreens=

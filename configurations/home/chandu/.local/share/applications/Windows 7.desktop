@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[en_IN]=Run Virtual Machine
+Comment=Run Virtual Machine
+Exec=xdg-open '/home/chandu/Softwares/Virtual Machines/Windows 7/Windows 7.vmx'
+GenericName[en_IN]=
+GenericName=
+Icon=1CD8_rundll32.0
+MimeType=
+Name[en_IN]=Windows 7
+Name=Windows 7
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

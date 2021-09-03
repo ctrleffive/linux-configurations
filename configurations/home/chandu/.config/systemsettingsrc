@@ -4,11 +4,19 @@ Recent URLs[$e]=file:$HOME/.local/share/wallpapers/,file:///usr/share/wallpapers
 detailViewIconSize=16
 iconViewIconSize=43
 
+[KPropertiesDialog]
+DP1 Height 2560x1080=458
+DP1 Width 2560x1080=434
+
 [MainWindow]
 DP1 Height 2560x1080=748
+DP1 Height 640x480=405
 DP1 Width 2560x1080=1416
-DP1 XPosition 2560x1080=71
-DP1 YPosition 2560x1080=128
+DP1 Width 640x480=576
+DP1 XPosition 2560x1080=391
+DP1 XPosition 640x480=92
+DP1 YPosition 2560x1080=205
+DP1 YPosition 640x480=75
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAABYgAAALsAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
@@ -18,4 +26,7 @@ FormatSettingsChanged=false
 
 [Open-with settings]
 CompletionMode=1
-History=sys
+History=system,pom,sys
+
+[systemsettings_sidebar_mode]
+HighlightNonDefaultSettings=false
