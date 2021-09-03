@@ -14,3 +14,9 @@
 - Services needs to be enabled should be listed inside `services.conf` file.
 - Its better to restart the PC after script finished running.
 - 3rd party packages are installed through `pikaur` AUR helper.
+
+## ⚡️ Notes
+- Install **VMWare Player** - https://wiki.archlinux.org/title/VMware#Installation
+- After installing `wine`
+  - Create a link in home directory to `/run/media/chandu/Storage/Softwares/Wine` directory.
+  - Enable `multilib` in `/etc/pacman.conf` file.
