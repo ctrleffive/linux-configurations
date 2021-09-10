@@ -16,7 +16,7 @@ mode=None
 icon=battery-060
 
 [Battery][DPMSControl]
-idleTime=600
+idleTime=900
 
 [Battery][DimDisplay]
 idleTime=120000

@@ -16,7 +16,20 @@
 - 3rd party packages are installed through `pikaur` AUR helper.
 
 ## ⚡️ Notes
-- Install **VMWare Player** - https://wiki.archlinux.org/title/VMware#Installation
+- Install **VMWare Player** from here: https://wiki.archlinux.org/title/VMware#Installation
 - After installing `wine`
   - Create a link in home directory to `/run/media/chandu/Storage/Softwares/Wine` directory.
   - Enable `multilib` in `/etc/pacman.conf` file.
+- Use below code to create direct shortcut for joining Zoom calls:
+  ```ini
+  [Desktop Entry]
+  Comment=Zoom video conference
+  Exec=xdg-open "zoommtg://zoom.us/join?action=join&confno=XXXXXXXXXXXXXXXX&pwd=XXXXXXXXXXXXXXXX"
+  Icon=Zoom
+  MimeType=application/x-zoom;
+  Name=Join Meeting
+  StartupNotify=true
+  StartupWMClass=zoom
+  Type=Application
+  X-KDE-Protocols=zoommtg;zoomus;tel;callto;zoomphonecall;
+  ```

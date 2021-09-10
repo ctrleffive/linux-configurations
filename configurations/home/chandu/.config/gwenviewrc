@@ -29,12 +29,16 @@ File1[$e]=trash:/0-screenshot
 File2[$e]=$HOME/Pictures/Wallpapers/ios-11-3840x2160-4k-5k-beach-ocean-13655.jpg
 File3[$e]=$HOME/Pictures/Wallpapers/Screenshot 2021-08-26 at 10.41.04 PM.png
 File4[$e]=$HOME/Downloads/impressive code prediction.png
-File5[$e]=$HOME/Public/Assassins Creed II/media/Splash/bink_uplaysplash.png
+File5[$e]=/run/media/chandu/Rothschild/Personal data/Pictures™/12th chullans/1553138_1430195030548512_1373752925_o.jpg
+File6[$e]=/run/media/chandu/Rothschild/Personal data/Pictures™/WhatsApp Images/IMG-20160527-WA0038.jpg
+File7[$e]=/run/media/chandu/Rothschild/Personal data/Pictures™/WhatsApp Images/IMG-20160527-WA0039.jpg
 Name1[$e]=0-screenshot
 Name2[$e]=ios-11-3840x2160-4k-5k-beach-ocean-13655.jpg
 Name3[$e]=Screenshot 2021-08-26 at 10.41.04 PM.png
 Name4[$e]=impressive code prediction.png
-Name5[$e]=bink_uplaysplash.png
+Name5[$e]=1553138_1430195030548512_1373752925_o.jpg
+Name6[$e]=IMG-20160527-WA0038.jpg
+Name7[$e]=IMG-20160527-WA0039.jpg
 
 [SideBar]
 SideBarSplitterSizes=242,2317

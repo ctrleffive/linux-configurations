@@ -1,4 +1,4 @@
 [BatteryManagement]
 BatteryCriticalAction=8
-BatteryCriticalLevel=10
-BatteryLowLevel=20
+BatteryCriticalLevel=25
+BatteryLowLevel=50
