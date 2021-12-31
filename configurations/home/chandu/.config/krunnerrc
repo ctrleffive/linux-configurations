@@ -1,4 +1,5 @@
 [General]
+ActivityAware=false
 FreeFloating=true
 RetainPriorSearch=false
 

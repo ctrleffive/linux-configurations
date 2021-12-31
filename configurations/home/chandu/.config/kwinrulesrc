@@ -7,8 +7,8 @@ above=true
 aboverule=2
 skipswitcher=true
 skipswitcherrule=2
-title=Android Emulator - Pixel_3a:5554
-titlematch=1
+title=Android Emulator - Pixel
+titlematch=2
 wmclassmatch=1
 
 [General]

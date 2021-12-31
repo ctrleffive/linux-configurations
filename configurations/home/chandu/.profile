@@ -16,3 +16,6 @@ export PATH=/opt/flutter/bin:$PATH
 export LC_ALL=en_US.UTF-8
 export LANG=en_US.UTF-8
 
+alias php='/usr/bin/php7'
+export PATH="$PATH:$HOME/.burrow/bin"
+export PATH="$PATH":"$HOME/.pub-cache/bin"

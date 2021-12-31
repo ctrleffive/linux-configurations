@@ -2,4 +2,7 @@
 update_info=okular.upd:annotation-toolbar,okular.upd:builtin-annotations
 
 [Main View]
-ShowLeftPanel=false
+SplitterSizes=350,1141
+
+[PageView]
+MouseMode=TextSelect

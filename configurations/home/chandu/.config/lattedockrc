@@ -1,6 +1,6 @@
 [LatteSettingsDialog]
 downloadWindowSize=980,600
-windowSize=1100,750
+windowSize=1100,661
 
 [LatteSettingsDialog][DetailsDialog]
 windowSize=560,640

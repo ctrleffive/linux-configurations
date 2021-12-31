@@ -6,3 +6,4 @@
 # /dev/nvme0n1p2
 UUID=bb36f99a-e3a9-44d7-b81f-4f186be5a5bd	/         			ext4      	rw,relatime		0 1
 /dev/sda1					/run/media/chandu/Storage/	ext4		defaults,noatime	0 2
+tmpfs						/mount/RAM/			tmpfs		rw,nodev,nosuid		0 0

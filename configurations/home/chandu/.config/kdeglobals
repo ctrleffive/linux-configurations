@@ -108,8 +108,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [DirSelect Dialog]
-DirSelectDialog Size=809,598
-History Items[$e]=file:///run/media/chandu/Storage,file:///run/media/chandu/Storage/Softwares/Wine,file:$HOME/Public,file:$HOME/Public,file:$HOME/Public,file:///run/media/chandu/Storage/Public,file:$HOME/Public,file:$HOME/Softwares/OS Images,file:$HOME/Downloads,file:$HOME/Softwares/OS Images,file:$HOME/Public,file:$HOME/Downloads,file:$HOME/Videos/Movies,file:$HOME/Public,file:$HOME/Softwares/Operating System Images,file:$HOME/Downloads,file:$HOME/Public/Virtual Machines,file:///run/media/chandu/Storage/Public/Virtual Machines,file:$HOME/Public,file:$HOME/Public,file:$HOME/Softwares/Virtual Machines/Linux,file:$HOME/Softwares/Virtual Machines/Linux,file:$HOME/Softwares/Virtual Machines,file:$HOME/Softwares/Operating System Images,file:$HOME/Pictures/Wallpapers,file:$HOME/Music,file:$HOME/Pictures,file:$HOME/Videos,file:$HOME/Downloads,file:$HOME/Documents,file:$HOME,file:$HOME/Softwares/Virtual Machines,file:$HOME/Softwares/Virtual Machines,file:$HOME/Softwares/Virtual Machines,file:$HOME/Videos,file:$HOME/Downloads,file:$HOME/Videos,file:$HOME/Pictures/Screenshots,file:$HOME/Documents
+DirSelectDialog Size=811,586
+History Items[$e]=file:$HOME/RAM,file:$HOME/RAM,file:$HOME/Desktop,file:$HOME/RAM,file:$HOME/RAM,file:$HOME/RAM,file:$HOME/RAM,file:$HOME/RAM,file:$HOME/Documents/Calibre Library,file:$HOME/Downloads/Nokia Backup,file:$HOME/RAM,file:$HOME/Softwares/Installers/Microsoft Office 2013 SP1 Pro +,file:$HOME/Downloads,file:$HOME/Videos,file:///mount/RAM,file:$HOME/Softwares/Installers,file:///,file:///run/media/chandu/Storage,file:///run/media/chandu/Storage/Softwares/Wine,file:$HOME/Public,file:$HOME/Public,file:$HOME/Public,file:///run/media/chandu/Storage/Public,file:$HOME/Public,file:$HOME/Softwares/OS Images,file:$HOME/Downloads,file:$HOME/Softwares/OS Images,file:$HOME/Public,file:$HOME/Downloads,file:$HOME/Videos/Movies,file:$HOME/Public,file:$HOME/Softwares/Operating System Images,file:$HOME/Downloads,file:$HOME/Public/Virtual Machines,file:///run/media/chandu/Storage/Public/Virtual Machines,file:$HOME/Public,file:$HOME/Public,file:$HOME/Softwares/Virtual Machines/Linux,file:$HOME/Softwares/Virtual Machines/Linux,file:$HOME/Softwares/Virtual Machines,file:$HOME/Softwares/Operating System Images,file:$HOME/Pictures/Wallpapers,file:$HOME/Music,file:$HOME/Pictures,file:$HOME/Videos,file:$HOME/Downloads,file:$HOME/Documents,file:$HOME,file:$HOME/Softwares/Virtual Machines,file:$HOME/Softwares/Virtual Machines
 
 [General]
 BrowserApplication=firefox-developer-edition.desktop
@@ -138,7 +138,7 @@ contrast=4
 Allow Expansion=false
 Automatically select filename extension=true
 Breadcrumb Navigation=false
-Decoration position=2
+Decoration position=0
 LocationCombo Completionmode=5
 PathCombo Completionmode=5
 Show Bookmarks=false

@@ -3,42 +3,45 @@ update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBa
 
 [Crop]
 CropAdvancedSettingsEnabled=true
-CropRatioHeight=1
-CropRatioIndex=1
-CropRatioWidth=1
+CropPreserveAspectRatio=true
 
 [General]
 LastUsedVersion=210800
 SideBarPage=operations
 
+[ImageView]
+ThumbnailSplitterSizes=744,213
+
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/Desktop/banner-1.png,file:$HOME/Desktop/banner-6.png,file:$HOME/Desktop/banner-5.png,file:$HOME/Desktop/banner-4.png,file:$HOME/Desktop/banner-3.png,file:$HOME/Desktop/banner-2.png
-Recent URLs[$e]=file:$HOME/Desktop/
+Recent Files[$e]=file:$HOME/Pictures/Photos/RAW/2020/2020-02-19/orion.png,file:$HOME/Pictures/Photos/RAW/2020/2020-02-19/orion.png
+Recent URLs[$e]=file:$HOME/Desktop/,file:$HOME/Pictures/Photos/RAW/2020/2020-02-19/,file:///run/media/chandu/Storage/Pictures/Photos/RAW/2020/2020-02-19/
 detailViewIconSize=16
+iconViewIconSize=43
+
+[KPropertiesDialog]
+DP1 Height 2560x1080=458
+DP1 Width 2560x1080=413
 
 [MainWindow]
-DP1 Window-Maximized 2560x1080=true
-DP1 XPosition 2560x1080=419
-DP1 YPosition 2560x1080=176
+DP1 Height 1280x720=667
+DP1 Height 2560x1080=1021
+DP1 Width 1280x720=722
+DP1 Width 2560x1080=1280
+DP1 XPosition 1280x720=320
+DP1 XPosition 2560x1080=640
+DP1 YPosition 1280x720=59
+DP1 YPosition 2560x1080=59
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAACgAAAAPsAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABQAAAAPPAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=trash:/0-screenshot
-File2[$e]=$HOME/Pictures/Wallpapers/ios-11-3840x2160-4k-5k-beach-ocean-13655.jpg
-File3[$e]=$HOME/Pictures/Wallpapers/Screenshot 2021-08-26 at 10.41.04 PM.png
-File4[$e]=$HOME/Downloads/impressive code prediction.png
-File5[$e]=/run/media/chandu/Rothschild/Personal data/Pictures™/12th chullans/1553138_1430195030548512_1373752925_o.jpg
-File6[$e]=/run/media/chandu/Rothschild/Personal data/Pictures™/WhatsApp Images/IMG-20160527-WA0038.jpg
-File7[$e]=/run/media/chandu/Rothschild/Personal data/Pictures™/WhatsApp Images/IMG-20160527-WA0039.jpg
-Name1[$e]=0-screenshot
-Name2[$e]=ios-11-3840x2160-4k-5k-beach-ocean-13655.jpg
-Name3[$e]=Screenshot 2021-08-26 at 10.41.04 PM.png
-Name4[$e]=impressive code prediction.png
-Name5[$e]=1553138_1430195030548512_1373752925_o.jpg
-Name6[$e]=IMG-20160527-WA0038.jpg
-Name7[$e]=IMG-20160527-WA0039.jpg
+File1[$e]=$HOME/Downloads/PhonePeQR_Union Bank Of India - 34116381397074398365044.png
+File2[$e]=$HOME/RAM/Frame 1.png
+File3[$e]=$HOME/RAM/Frame 2.png
+Name1[$e]=PhonePeQR_Union Bank Of India - 34116381397074398365044.png
+Name2[$e]=Frame 1.png
+Name3[$e]=Frame 2.png
 
 [SideBar]
-SideBarSplitterSizes=242,2317
+SideBarSplitterSizes=189,2370

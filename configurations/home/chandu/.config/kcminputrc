@@ -9,4 +9,5 @@ RepeatRate=25
 
 [Mouse]
 XLbInptAccelProfileFlat=false
+XLbInptLeftHanded=false
 cursorTheme=Vimix-cursors
